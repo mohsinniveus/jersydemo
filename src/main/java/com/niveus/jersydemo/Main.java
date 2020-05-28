@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.net.URI;
 
 /**
- * Main class.
+ * Main class for Jersey application.
  *
  */
 public class Main {
